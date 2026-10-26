@@ -2,6 +2,12 @@
 
 This file provides guidelines for AI assistants working on this Python project.
 
+## What uplift-ble does
+
+uplift-ble is an unofficial Python library for controlling supported Uplift standing desks through their Bluetooth adapter.
+Compatibility and command behavior vary by hardware; other brands and untested desk variants remain uncertain.
+Evidence: [README.md](README.md#compatibility); this description does not authorize physical desk movement.
+
 ## Language Features and Modern Python
 
 - Always use type hints for function signatures and class attributes
